@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Geovanna Evangelista ✌️
+### Olá! Eu sou a Geovanna ✌️
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-evangelista) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/geovanna.moraes.5249) 
